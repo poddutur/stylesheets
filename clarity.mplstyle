@@ -19,7 +19,7 @@ lines.linewidth: 2.0
 lines.color: 30a2da
 patch.linewidth: 0
 patch.facecolor: 30a2da
-patch.edgecolor: 30a2da
+patch.edgecolor: grey
 savefig.edgecolor: white
 savefig.facecolor: white
 svg.fonttype: path
